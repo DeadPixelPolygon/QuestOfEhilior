@@ -1,4 +1,4 @@
-# Quest Of Elihior
+# Quest Of Ehilior
 Simple text based game made with Python 3.x [UNFINISHED]
 
 I made (or am making) this in my free time.
